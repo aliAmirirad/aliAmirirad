@@ -6,7 +6,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aliamirirad9799@gmail.com)
 
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Github](https://img.shields.io/github/followers/aliAmirirad?label=Follow&style=social)](https://github.com/aliAmirirad)
 
 🤔 I’m currently reading [fluent in  Python]
 - 📫 How to reach me: aliamirirad9799@gmail.com
